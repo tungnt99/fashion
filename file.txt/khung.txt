@@ -1,0 +1,21 @@
+-Frontend:
+    -index.php
+    -category.php
+    -detail.php
+    -cart.php
+    -checkout.php
+    -complete.php
+    -contact.php
+-Admin:
+    -authen/***
+    -user/***
+    -category/***
+    -product/***
+    -order/***
+    -feedback/***
+    index.php
+-database:
+    -config.php -> cấu hình CSDL
+    -dbhelpper.php-> chứa các function dùng chung 
+Utils:
+    -utility.php -> chứa các hàm tiện ích
